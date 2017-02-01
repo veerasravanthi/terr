@@ -28,7 +28,7 @@ variable "instance_type" {
 }
 
 variable "instance_name" {
-    default = "Sravs"
+    default = "Sravs_jenkins"
 }
 
 # Ubuntu Precise 12.04 LTS (x64)
